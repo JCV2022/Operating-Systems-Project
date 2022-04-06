@@ -1,5 +1,5 @@
 Name: Dhir Talati
-Membres: Richard Kumahia, Jonathan Vu
+Members: Richard Kumahia, Jonathan Vu
 Class: EECE 4811
 Professor: Michael Geiger
 

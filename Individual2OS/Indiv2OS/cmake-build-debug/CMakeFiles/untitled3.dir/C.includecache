@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jonat/CLionProjects/untitled3/barrier.c
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+common_threads.h
+C:/Users/jonat/CLionProjects/untitled3/common_threads.h
+
+C:/Users/jonat/CLionProjects/untitled3/common_threads.h
+pthread.h
+-
+assert.h
+-
+sched.h
+-
+semaphore.h
+-
+
+C:/Users/jonat/CLionProjects/untitled3/fork-join.c
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+common_threads.h
+C:/Users/jonat/CLionProjects/untitled3/common_threads.h
+
